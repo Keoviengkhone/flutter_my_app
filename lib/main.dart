@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: false,
         primarySwatch: Colors.purple,
       ),
-      title: "TESTER",
+      title: "Aming Testing",
       home: Counter(),
     );
 
